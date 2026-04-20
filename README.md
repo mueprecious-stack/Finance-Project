@@ -1,4 +1,4 @@
-# Finance-Project
+# Data Entry and Finance Tracking Project
 A personal finance tracking with Excel Dashboard
 
 # Overview
