@@ -1,5 +1,5 @@
 # Finance-Project
-A personal financie tracking with Excel Dashboard
+A personal finance tracking with Excel Dashboard
 
 # Overview
 ---
