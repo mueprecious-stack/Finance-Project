@@ -10,33 +10,34 @@ The dataset contains records of all the client’s transactions for the first qu
 ### Tools and Skills Used
 ---
 **Excel**
-•	Data entry 
-•	Pivot tables 
-•	Merging tables in Power Query Editor 
-•	Dashboard development 
+- Data entry 
+- Pivot tables 
+- Merging tables in Power Query Editor 
+- Dashboard development 
 
 ### Dataset
 ---
 The dataset consists of financial records entered over time, making it a primary data source. It was not sourced from any public platform; all records were manually entered by the data analyst and therefore private, hence raw data will not be updated.
 
-•	**File**: First_Quarter_Finances.xlsx 
-•	**Data Type**: Continuously updated Excel-based dataset 
-•	**Time Period**: January – March 2026 
+- **File**: First_Quarter_Finances.xlsx 
+- **Data Type**: Continuously updated Excel-based dataset 
+- **Time Period**: January – March 2026 
 
 **Tables**
-•	**Income**: Contains details of all income sources, including savings from the previous year. 
-•	**Self Payment**: Includes monthly budgeted expenses funded from the client’s savings and additional income. 
-•	**Purchases**: Records all purchase categories and transactions made by the client. 
-•	**Balances**: Shows total remaining funds across all bank accounts, with account-level breakdowns. 
-•	**Loaned**: Tracks money loaned to friends and family, including repayments and outstanding balances. 
+-	**Income**: Contains details of all income sources, including savings from the previous year. 
+-	**Self Payment**: Includes monthly budgeted expenses funded from the client’s savings and additional income. 
+-	**Purchases**: Records all purchase categories and transactions made by the client. 
+-	**Balances**: Shows total remaining funds across all bank accounts, with account-level breakdowns. 
+-	**Loaned**: Tracks money loaned to friends and family, including repayments and outstanding balances. 
 
 ### Data Preparation
 ---
 1.	Converted raw data into structured Excel tables 
-2.	Performed data cleaning and formatting 
-3.	Summarized data using Pivot Tables 
-4.	Created visualizations 
-5.	Built an interactive dashboard 
+2.	Performed data cleaning and formatting
+3.	Merged tables in Power Querry Editor 
+4.	Summarized data using Pivot Tables 
+5.	Created visualizations 
+6.	Built an interactive dashboard 
 
 ### Dashboard Overview
 ---
@@ -63,8 +64,8 @@ The dashboard provides a summary of:
 1.	Distribute expenses more evenly over time to avoid exceeding monthly budgets. 
 2.	Consider obtaining a side job to maintain a steady income stream during the training period. 
 3.	Reduce discretionary spending to better manage the declining financial position. 
----
+
 ### Conclusion
 ---
-The analysis indicates that the client’s financial position is unsustainable. Approximately 38% of total funds have already been spent within the first quarter. If this spending pattern continues, the available funds are projected to be depleted by the end of the third quarter, well before the intended one-year period
+The analysis indicates that the client’s financial position is unsustainable. Approximately 38% of total funds have already been spent within the first quarter. If this spending pattern continues, the available funds are projected to be depleted by the end of the third quarter, well before the intended one-year period.
 
