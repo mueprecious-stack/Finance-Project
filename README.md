@@ -17,7 +17,7 @@ The dataset contains records of all the client’s transactions for the first qu
 
 ### Dataset
 ---
-The dataset consists of financial records entered over time, making it a primary data source. It was not sourced from any public platform; all records were manually entered by the data analyst and therefore private, hence raw data will not be updated.
+The dataset consists of financial records entered over time, making it a primary data source. It was not sourced from any public platform; all records were manually entered by the data analyst and therefore private, hence raw data files will not be uploaded.
 
 - **File**: First_Quarter_Finances.xlsx 
 - **Data Type**: Continuously updated Excel-based dataset 
